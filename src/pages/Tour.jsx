@@ -31,7 +31,7 @@ export default function Tour() {
 							</div>
 						</div>
 					</div>
-					<div className="flex flex-col flex-1 justify-end border">
+					<div className="flex flex-col flex-1 justify-end">
 						<text className="text-xs w-full text-gray-500">Start from</text>
 						<div className="text-lg font-bold">Rp. 1.600.000</div>
 					</div>
